@@ -121,7 +121,7 @@ void mostrardatos(String valor){
         conectar cc=new conectar();
         Connection cn=cc.conexion();
         DefaultTableModel modelo=new DefaultTableModel();
-       //Hola Joshua mi bebito fiu fiu
+       //HI
         modelo.addColumn("Dia");
         modelo.addColumn("Hora");
         modelo.addColumn("Salas");
